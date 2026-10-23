@@ -21,8 +21,8 @@ captive_portal:
 
 binary_sensor:
   - platform: gpio
-    name: "Microswitch"
-    id: microswitch
+    name: "Smart_Headphone_Microswitch"
+    id: smart_headphone_microswitch
     pin:
       number: GPIO12
       mode:
